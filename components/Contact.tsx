@@ -19,10 +19,10 @@ export function Contact() {
                 Email
               </p>
               <a
-                href="mailto:info@musharaqahub.com"
+                href="mailto:chairman@musharaqahub.com"
                 className="mt-2 inline-block text-lg text-mist transition hover:text-emerald"
               >
-                info@musharaqahub.com
+                chairman@musharaqahub.com
               </a>
             </div>
             <div>
@@ -34,7 +34,7 @@ export function Contact() {
               </p>
             </div>
           </div>
-          <a href="mailto:info@musharaqahub.com" className="primary-button mt-12">
+          <a href="mailto:chairman@musharaqahub.com" className="primary-button mt-12">
             Email our team
           </a>
           <p className="mt-6 text-sm leading-7 text-frost/58">

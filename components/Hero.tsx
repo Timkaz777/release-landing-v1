@@ -29,9 +29,9 @@ export function Hero() {
                 Shariah-compliant infrastructure for real-world asset tokenization
               </h1>
               <p className="mt-7 max-w-2xl text-lg leading-8 text-frost/80 sm:text-xl">
-                MusharaqaHUB is focused on structuring asset-linked participation
-                in selected real-world assets through Shariah-compliant,
-                compliance-oriented digital infrastructure.
+                MusharaqaHUB is focused on structuring participation in selected
+                real economic sectors through ethical principles and
+                blockchain-based infrastructure.
               </p>
               <div className="mt-9 flex flex-col gap-3 sm:flex-row">
                 <a href="#contact" className="primary-button">
@@ -43,7 +43,7 @@ export function Hero() {
               </div>
               <p className="mt-9 max-w-3xl text-sm leading-7 text-frost/64">
                 Positioned for strategic partners, asset owners, and investors
-                seeking disciplined, ethical participation architecture.
+                seeking disciplined participation architecture.
               </p>
               <div className="mt-5 flex flex-wrap gap-x-5 gap-y-2 text-xs uppercase tracking-overline text-frost/42">
                 {positioningSignals.map((signal) => (

@@ -8,11 +8,13 @@
 
 html {
   scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
   margin: 0;
   min-width: 320px;
+  overflow-x: hidden;
   background:
     radial-gradient(circle at 15% 10%, rgba(0, 255, 106, 0.12), transparent 22%),
     radial-gradient(circle at 85% 0%, rgba(0, 255, 106, 0.06), transparent 24%),
@@ -25,6 +27,7 @@ body {
 
 * {
   box-sizing: border-box;
+  min-width: 0;
 }
 
 a {

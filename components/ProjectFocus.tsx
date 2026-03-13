@@ -7,7 +7,7 @@ const focusItems = [
   {
     title: "Shariah-compliant structuring",
     description:
-      "Transactions are intended to follow principles of fairness, asset linkage, risk sharing, and responsible financial design.",
+      "Non-usuary transactions are intended to follow principles of fairness, asset linkage, risk sharing, and responsible financial design, as per Fatwa to be approved soon.",
   },
   {
     title: "Digital records and infrastructure",

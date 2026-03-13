@@ -27,7 +27,7 @@ export function WhySection() {
       <div className="shell">
         <div className="grid gap-12 lg:grid-cols-[0.85fr_1.15fr] lg:gap-16">
           <div>
-            <p className="eyebrow">Why MusharaqaHUB</p>
+            <p className="eyebrow">Differentiation</p>
             <h2 className="section-title mt-4">Why MusharaqaHUB</h2>
             <div className="divider mt-6" />
             <p className="mt-6 max-w-xl text-base leading-8 text-frost/78 sm:text-lg">

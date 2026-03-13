@@ -9,7 +9,7 @@ import { WhySection } from "@/components/WhySection";
 
 export default function HomePage() {
   return (
-    <div className="min-h-screen bg-abyss text-mist">
+    <div className="min-h-screen min-h-[100svh] bg-abyss text-mist">
       <Header />
       <main>
         <Hero />

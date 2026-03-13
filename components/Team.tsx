@@ -7,7 +7,7 @@ const teamMembers = [
   },
   {
     name: "Temirkhan Konkashev",
-    role: "Co-Founder / Strategy",
+    role: "Co-Founder / Strategy & Operations",
     description:
       "Leads strategic development, structuring, and long-term platform positioning.",
   },

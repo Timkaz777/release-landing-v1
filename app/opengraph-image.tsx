@@ -82,7 +82,7 @@ export default function OpenGraphImage() {
               Shariah-compliant infrastructure for real-world asset tokenization
             </div>
             <div style={{ maxWidth: "760px", color: "rgba(245,245,245,0.78)", fontSize: "28px", lineHeight: 1.4 }}>
-              MusharaqaHUB is focused on structuring asset-linked participation in selected real-world assets through Shariah-compliant, compliance-oriented digital infrastructure.
+              MusharaqaHUB is focused on structuring participation in selected real economic sectors through ethical principles and blockchain-based infrastructure.
             </div>
           </div>
           <div style={{ display: "flex", gap: "28px", fontSize: "18px", color: "rgba(245,245,245,0.62)", textTransform: "uppercase", letterSpacing: "0.18em" }}>

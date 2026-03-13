@@ -2,7 +2,7 @@ const features = [
   {
     title: "Ethical by structure",
     description:
-      "Built around Shariah-aligned participation logic rather than purely speculative exposure.",
+      "Built around Shariah-aligned participation logic rather than the usually speculative exposure common in comparable markets.",
   },
   {
     title: "Asset-backed by design",
@@ -29,7 +29,8 @@ export function About() {
           <div className="space-y-5 text-base leading-8 text-frost/78 sm:text-lg">
             <p>
               MusharaqaHUB is designed as a platform for structuring participation
-              in selected real-world assets using a Shariah-compliant framework.
+              in selected real economic sectors using a Shariah-compliant
+              framework.
             </p>
             <p>
               Financial participation is intended to remain connected to
