@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const navItems = [
   { label: "About", href: "#about" },
   { label: "Project", href: "#project" },
@@ -10,8 +12,15 @@ export function Header() {
     <header className="sticky top-0 z-50 border-b border-line/60 bg-abyss/86 backdrop-blur-xl">
       <div className="shell flex min-h-20 items-center justify-between gap-6 py-2">
         <a href="#top" className="flex items-center gap-3 text-lg font-semibold tracking-[-0.04em] text-mist">
-          <span className="flex h-10 w-10 items-center justify-center rounded-full border border-emerald/35 bg-emerald/8 text-xs font-semibold tracking-[0.22em] text-emerald">
-            MH
+          <span className="flex rounded-2xl border border-black/5 bg-white p-1.5 shadow-[0_8px_22px_rgba(0,0,0,0.12)]">
+            <Image
+              src="/logo.png"
+              alt="MusharaqaHUB logo"
+              width={44}
+              height={52}
+              className="h-11 w-auto sm:h-12"
+              priority
+            />
           </span>
           <span>
             Musharaqa<span className="text-emerald">HUB</span>

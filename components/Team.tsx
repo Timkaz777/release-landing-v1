@@ -1,15 +1,15 @@
 const teamMembers = [
   {
-    name: "Temirkhan Konkashev",
-    role: "Co-Founder / Strategy",
-    description:
-      "Leads strategic development, structuring, and long-term platform positioning.",
-  },
-  {
     name: "Yerlan Baidaulet",
     role: "Co-Founder / Chairman",
     description:
       "Provides leadership across vision, governance, and ecosystem development.",
+  },
+  {
+    name: "Temirkhan Konkashev",
+    role: "Co-Founder / Strategy",
+    description:
+      "Leads strategic development, structuring, and long-term platform positioning.",
   },
   {
     name: "Renat Kudakaev",
